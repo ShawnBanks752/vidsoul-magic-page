@@ -26,7 +26,7 @@ const Hero = () => {
             </span>
             
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">
-              Create Professional Videos with <span className="text-gradient">VidSoul AI</span>
+              Create your dream NSFW AI Videos with <span className="text-gradient">VidSoul AI</span>
             </h1>
             
             <p className="text-lg md:text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
